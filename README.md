@@ -1,2 +1,2 @@
 # exercise-parallel
-22
+23
