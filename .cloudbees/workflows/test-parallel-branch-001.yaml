@@ -12,407 +12,458 @@ jobs:
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 1
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job02:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 2
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job03:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 3
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job04:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 4
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job05:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 5
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job06:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 6
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job07:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 7
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job08:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 8
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job09:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 9
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job10:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 10
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job11:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 11
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job12:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 12
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job13:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 13
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job14:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 14
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job15:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 15
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job16:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 16
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job17:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 17
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job18:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 18
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job19:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 19
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job20:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 20
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job21:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 21
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job22:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 22
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job23:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 23
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job24:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 24
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job25:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 25
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job26:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 26
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job27:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 27
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job28:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 28
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job29:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 29
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job30:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 30
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job31:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 31
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job32:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 32
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job33:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 33
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job34:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 34
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job35:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 35
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job36:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 36
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job37:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 37
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job38:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 38
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job39:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 39
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job40:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 40
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job41:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 41
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job42:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 42
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job43:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 43
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job44:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 44
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job45:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 45
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job46:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 46
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job47:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 47
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job48:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 48
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job49:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 49
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job50:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
-          sleep 50
+          echo "sleeping for 120"
+          sleep 120
+          echo "done"
   job60:
     steps:
       - name: Say hello
         uses: docker://golang:1.20.3-alpine3.17
         shell: sh
         run: |
-          echo "hello world"
+          echo "$(date)"
+          echo "done"
     needs:
       - job01
       - job02
