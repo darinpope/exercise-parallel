@@ -4,7 +4,7 @@ name: test-parallel
 on:
   push:
     branches:
-      - "**"
+      - "main"
 jobs:
   job01:
     steps:
